@@ -50,11 +50,13 @@ h1{
 .split.left .btn:hover{
     background-color: var(--left-btn-hover-color);
     border-color: var(--left-btn-hover-color);
+    transform: scale(1.1);
 }
 
 .split.right .btn:hover{
     background-color: var(--right-btn-hover-color);
     border-color: var(--right-btn-hover-color);
+    transform: scale(1.1);
 }
 
 
